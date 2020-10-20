@@ -45,7 +45,7 @@ Diego333-ms
 ```
 * git clone https://github.com/Diego333-ms/Hemera
 * cd Hemera
-* chmod +777 linux_install.sh
+* chmod +777 termux_install.sh
 * ./termux_install.sh
 * python3 Hemera.py ou ./Hemera.py
 ```
