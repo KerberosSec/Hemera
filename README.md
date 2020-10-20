@@ -49,3 +49,13 @@ Diego333-ms
 * ./termux_install.sh
 * python3 Hemera.py ou ./Hemera.py
 ```
+## Tutorial de Exemplo de uso do Hemera
+
+```
+* [] Hemera > set template netflix
+* [] Hemera > set porta 3333
+* [] Hemera > set action url https://www.site.com
+* [] Hemera > set url encurter on
+* [] Hemera > show options
+* [] Hemera > exploit
+```
