@@ -2,12 +2,14 @@
 
 <p align="center"><img src="https://i.imgur.com/3jTTc8q.png"></p>
 
-O Hemera é um Programa para desenvolver Phishings. Com ele voçe pode:
+O Hemera é um Programa voltado para desenvolver Phishings. Com ele voçê pode:
 ```
 * Criar Phishings Profissionais 
 * Encurtar URLs de Phishings da forma como desejar
 * Direcionar alvos para sites a sua escolha
 * Versátil aos pentests de Engenharia Social
+* Salva as suas configurações de Ataque
+* Rápido para coletar Dados
 ```
 ## Desenvolvedor:
 
@@ -20,12 +22,15 @@ Diego333-ms
 ```
 * Kali Linux
 * Ubuntu
+* Mint
+* Debian
+* Fedora
 * Termux
 ```
 
 ## Instalação do Anteros:
 
-### Kali Linux / Ubuntu 
+### Kali Linux / Ubuntu / Mint / Debian / Fedora
 
 ```
 * git clone https://github.com/Diego333-ms/Hemera
