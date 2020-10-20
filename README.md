@@ -28,7 +28,7 @@ Diego333-ms
 * Termux
 ```
 
-## Instalação do Anteros:
+## Instalação do Hemera:
 
 ### Kali Linux / Ubuntu / Mint / Debian / Fedora
 
