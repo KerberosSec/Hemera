@@ -11,12 +11,10 @@ O Hemera é um Programa voltado para desenvolver Phishings, o objetivo desse pro
 * Salva as suas configurações de Ataque
 * Rápido para coletar Dados
 ```
-## Versão 1.3:
+## Versão 1.4:
 ```
 * Correção de Bugs
-* Mudanças de Layout
-* Adição de novo Template: Microsoft
-* Adição de novo Comando: display templates
+* Atualização do Template: Instagram
 ```
 ## Desenvolvedor:
 
