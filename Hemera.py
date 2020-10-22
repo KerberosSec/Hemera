@@ -59,7 +59,7 @@ def banner_program(): #Banner do Programa
 |   Y  \  ___/|  Y Y  \  ___/|  | \// __ \_
 |___|  /\___  >__|_|  /\___  >__|  (____  /
      \/     \/      \/     \/           \/   ''')
-   print ("\t" + W + ".:. Diego333-ms .:. 1.3")
+   print ("\t" + W + ".:. Diego333-ms .:. 1.4")
 
 def menu_program(): #Menu do Programa
    verificar_log = os.path.exists("config_log.txt") #Verificar se o arquivo de log existe
