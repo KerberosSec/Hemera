@@ -57,10 +57,13 @@ Diego333-ms
 ## Tutorial de Exemplo de uso do Hemera
 
 ```
-* [] Hemera > set template netflix
-* [] Hemera > set porta 3333
-* [] Hemera > set action url https://www.site.com
-* [] Hemera > set url encurter on
-* [] Hemera > show options
-* [] Hemera > exploit
+[*] Hemera > help
+[*] Hemera > display templates
+[*] Hemera > set template netflix
+[*] Hemera > set porta 8080
+[*] Hemera > set action url https://www.site.com
+[*] Hemera > set url encurter on
+[*] Hemera > set keylogger mode on
+[*] Hemera > show options
+[*] Hemera > exploit
 ```
