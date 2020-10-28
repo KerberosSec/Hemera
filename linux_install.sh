@@ -17,10 +17,12 @@ apt install python
 apt install python3-pip
 apt install curl
 apt install php
-wget --no-check-certificate https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
-unzip ngrok-stable-linux-arm.zip
+git clone https://github.com/PSecurity/ps.ngrok
+cd ps.ngrok
+mv ngrok ..
+cd ..
+rm -rf ps.ngrok
 chmod +x ngrok
-rm -rf ngrok-stable-linux-arm.zip
 pip3 install requests
 verificar
 setterm -foreground green
