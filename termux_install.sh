@@ -22,7 +22,7 @@ git clone https://github.com/PSecurity/ps.ngrok
 cd ps.ngrok
 mv ngrok ..
 cd ..
-rm ps.ngrok
+rm -rf ps.ngrok
 chmod +x ngrok
 pip install requests
 verificar
