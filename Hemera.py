@@ -70,7 +70,7 @@ def banner_program(): #Banner do Programa
 |   Y  \  ___/|  Y Y  \  ___/|  | \// __ \_
 |___|  /\___  >__|_|  /\___  >__|  (____  /
      \/     \/      \/     \/           \/   ''')
-   print ("\t" + W + ".:. Diego333-ms .:. 1.8")
+   print ("\t" + W + ".:. Diego333-ms .:. 1.9")
 
 def menu_program(): #Menu do Programa
   verificar_termos = os.path.exists("termos_de_uso.txt")
