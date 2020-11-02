@@ -14,7 +14,7 @@ O Hemera é um Programa voltado para desenvolver Phishings, o objetivo desse pro
 ## Versão 2.1:
 ```
 * Correção de Bugs
-* Melhoria na Interface do Hemera
+* Melhorias na Interface do Hemera
 ```
 ## Desenvolvedor:
 
