@@ -25,6 +25,7 @@ cd ..
 rm -rf ps.ngrok
 chmod +x ngrok
 pip install requests
+pip install tabulate
 verificar
 setterm -foreground green
 printf "\n[+] Instalação Concluída com Sucesso\n"
