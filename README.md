@@ -1,6 +1,6 @@
 ## Projeto Hemera Versão 2.1:
 
-<p align="center"><img src="<blockquote class="imgur-embed-pub" lang="en" data-id="4nGU9F6"><a href="https://imgur.com/4nGU9F6">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>"></p>
+<p align="center"><img src="https://imgur.com/4nGU9F6"></p>
 
 O Hemera é um Programa voltado para desenvolver Phishings, o objetivo desse programa é auxiliar em pentests éticos e não deve ser usado para outros fins, leia o arquivo LICENSE para mais informações. Com o Hemera voçê pode:
 ```
