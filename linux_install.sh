@@ -24,6 +24,7 @@ cd ..
 rm -rf ps.ngrok
 chmod +x ngrok
 pip3 install requests
+pip3 install tabulate
 verificar
 setterm -foreground green
 printf "["
