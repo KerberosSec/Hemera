@@ -6,7 +6,7 @@
 # .:. GitHub: https://github.com/Diego333-ms .:.                            #
 # .:. Leia o arquivo LICENSE .:.                                            #
 # .:. Inspiração: Seeker,Weeman,HiddenEye .:.                               #
-# .:. Desenvolvedor: Diego333-ms .:.                                        #
+# .:. Desenvolvedor: Diego .:.                                        #
 #                                                                           #
 # Hemera is distributed in the hope that it will be useful,                 #
 # but WITHOUT ANY WARRANTY; without even the implied warranty of            #
@@ -18,7 +18,7 @@
 #                                                                           #
 #---------------------------------------------------------------------------#
 #                                                                           #
-#     Copyright © 2020 Diego333-ms [ https://github.com/Diego333-ms ]       #
+#     Copyright © 2020 KerberosSec [ https://github.com/Diego333-ms ]       #
 #                                                                           #
 #---------------------------------------------------------------------------#
 
@@ -82,7 +82,7 @@ def banner_program(): #Banner do Programa
    print (G + '''
 ┌══════════════════════════════════════════════════════════════┐
 █                                                              █
-█    - [+] Criador : Diego333-ms .:. Versão : 2.3 .:. [+] -    █
+█      - [+] Criador : Diego .:. Versão : 2.3 .:. [+] -        █
 █                                                              █
 └══════════════════════════════════════════════════════════════┘ ''')
    print ('''
