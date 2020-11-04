@@ -5,7 +5,7 @@
 # .:. Projeto Hemera .:.                                                    #
 # .:. GitHub: https://github.com/Diego333-ms .:.                            #
 # .:. Leia o arquivo LICENSE .:.                                            #
-# .:. Inspiração: Seeker,Weeman,HiddenEye .:.                               #
+# .:. Inspiração/Credits: Seeker,Weeman,HiddenEye,Xerosploit .:.            #
 # .:. Desenvolvedor: Diego333-ms .:.                                        #
 #                                                                           #
 # Hemera is distributed in the hope that it will be useful,                 #
