@@ -60,7 +60,7 @@ Diego333-ms
 
 ```
 [*] Hemera > help
-[*] Hemera > display templates
+[*] Hemera > show templates
 [*] Hemera > set template netflix
 [*] Hemera > set porta 8080
 [*] Hemera > set action url https://www.site.com
