@@ -171,7 +171,7 @@ def menu_program(): #Menu do Programa
         elif (prompt[0] == "show" and prompt[1] == "options" or prompt[0] == "SHOW" and prompt[1] == "OPTIONS"):
          try: #Se o usuário digitar show ou show options na posição 0 ou 1 da lista, será exibida a tela de configuração
            banner_program()
-           print ("\n\t" + G + "   [+]════════════[ OPÇÕES ]════════════[+]")
+           print ("\n\t" + G + "  [+]════════════[ OPÇÕES ]════════════[+]")
            table = [[C + "          Template:    " + G, "%s" %template_phishing], [C + "          Porta:    " + G, "%i" %porta], [C + "          URL de Ação:    " + G, "%s" %url_action], [C + "          Encurtar URL:    " + G, "%s" %encurtar_url], [C + "          Keylogger:    " + G, "%s" %keylogger]]
            print (tabulate(table, tablefmt="fancy_grid"))
            continue
