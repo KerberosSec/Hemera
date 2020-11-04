@@ -21,7 +21,7 @@ O Hemera é um Programa voltado para desenvolver Phishings, o objetivo desse pro
 ## Desenvolvedor:
 
 ```
-Diego333-ms
+Diego / KerberosSec
 ```
 
 ## O Hemera é compatível com:
