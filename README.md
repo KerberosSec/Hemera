@@ -1,4 +1,4 @@
-## Projeto Hemera Versão 2.3:
+## Projeto Hemera Versão 2.4:
 
 <p align="center"><img src="https://i.imgur.com/bQI1tgJ.png"></p>
 
@@ -11,12 +11,11 @@ O Hemera é um Programa voltado para desenvolver Phishings, o objetivo desse pro
 * Salva as suas configurações de Ataque
 * Rápido para coletar Dados
 ```
-## Versão 2.3:
+## Versão 2.4:
 ```
 * Correção de Bugs
-* Melhorias na Interface do Hemera
-* Adição de novo comando: banner
-* Adição do modo Interface Gráfica para o Hemera
+* Melhorias na Interface Gráfica do Hemera
+* Adição de novo Template: Facebook
 ```
 ## Desenvolvedor:
 
