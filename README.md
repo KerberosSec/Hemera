@@ -6,15 +6,18 @@
 <p align="center"><img src="https://img.shields.io/badge/Vers%C3%A3o-2.5-brightgreen"></p>
 
 <p><strong>O Hemera é um Programa voltado para desenvolver Phishings, o objetivo desse programa é auxiliar em pentests éticos e não deve ser usado para outros fins, leia o arquivo LICENSE para mais informações. Com o Hemera voçê pode:</strong></p>
-##
-```
-* Criar Phishings Profissionais 
+
+* Criar Phishings Profissionais
+<br>
 * Encurtar URLs de Phishings da forma como desejar
+<br>
 * Direcionar alvos para sites a sua escolha
+<br>
 * Versátil aos pentests de Engenharia Social
+<br>
 * Salva as suas configurações de Ataque
+<br>
 * Rápido para coletar Dados
-```
 
 ## Desenvolvido em Python
 
