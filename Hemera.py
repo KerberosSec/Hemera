@@ -86,7 +86,7 @@ def banner_program(): #Banner do Programa
 █      - [+] Criador : Diego .:. Versão : 2.5 .:. [+] -        █
 █                                                              █
 └══════════════════════════════════════════════════════════════┘ ''')
-   print (I + '''
+   print ('''
      [+]═══════════[ Grupo : Kerberos Sec ]═══════════[+]''')
 
 def menu_program(): #Menu do Programa
