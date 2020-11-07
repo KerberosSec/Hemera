@@ -14,7 +14,7 @@ O Hemera é um Programa voltado para desenvolver Phishings, o objetivo desse pro
 
 ## Desenvolvido em Python
 
-<p align="center"><img src="https://img1.gratispng.com/20180320/fsw/kisspng-angle-text-symbol-brand-other-python-5ab0c09b0e3083.2363551015215330830581.jpg"></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1024px-Python_logo_and_wordmark.svg.png"></p>
 
 ## Versão 2.5:
 ```
