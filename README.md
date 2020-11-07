@@ -1,7 +1,7 @@
 ## Projeto Hemera Versão 2.5:
 
 <p align="center"><img src="https://i.imgur.com/bQI1tgJ.png"></p>
-![] https://img.shields.io/github/manifest-json/v/KerberosSec/https://github.com/KerberosSec/Hemera
+'[![](https://img.shields.io/pypi/pyversions/django.svg)](https://pypi.org/pypi/name/)'
 
 O Hemera é um Programa voltado para desenvolver Phishings, o objetivo desse programa é auxiliar em pentests éticos e não deve ser usado para outros fins, leia o arquivo LICENSE para mais informações. Com o Hemera voçê pode:
 ```
