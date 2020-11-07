@@ -7,6 +7,7 @@
 
 <p><strong>O Hemera é um Programa voltado para desenvolver Phishings, o objetivo desse programa é auxiliar em pentests éticos e não deve ser usado para outros fins, leia o arquivo LICENSE para mais informações. Com o Hemera voçê pode:</strong></p>
 
+<br>
 * Criar Phishings Profissionais
 <br>
 * Encurtar URLs de Phishings da forma como desejar
