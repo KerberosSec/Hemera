@@ -8,7 +8,7 @@
 <br>
 * Criar Phishings Profissionais
 <br>
-* Encurtar URLs de Phishings da forma como desejar
+* Encurtar URL de Phishings da forma como desejar
 <br>
 * Keylogger em Phishings
 <br>
