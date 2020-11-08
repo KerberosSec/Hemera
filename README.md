@@ -7,7 +7,7 @@
 
 ## Benefícios do Hemera:
 <br>
-* Criar Phishings Profissionais
+* Criação Phishings Profissionais
 <br>
 * Encurtar URL de Phishings da forma como desejar
 <br>
