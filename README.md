@@ -6,9 +6,8 @@
 <p><strong>O Hemera é um Software Open-Source voltado para o desenvolvimeno de Phishings. O objetivo desse algoritmo é auxiliar em pentests éticos legais e não deve ser usado para outros fins indevidos. Leia o arquivo LICENSE para obter mais informações.</strong></p>
 
 ## Benefícios do Hemera:
-
 <br>
-<p><u>* Criar Phishings Profissionais</u></p>
+* Criar Phishings Profissionais
 <br>
 * Encurtar URL de Phishings da forma como desejar
 <br>
