@@ -22,12 +22,12 @@
 
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1024px-Python_logo_and_wordmark.svg.png"></p>
 
-## Versão 2.5:
+## Versão 2.6:
 ```
 * Correção de Bugs
 * Melhorias na Interface Gráfica do Hemera
-* Adição de novo Template: Facebook
-* Melhorias no Banner do Hemera
+* Melhorias na Interface do Hemera
+* Melhorias de Desempenho
 ```
 ## Desenvolvedor:
 
