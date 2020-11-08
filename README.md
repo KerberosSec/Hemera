@@ -12,7 +12,7 @@
 <br>
 * Keylogger em Phishings
 <br>
-* Criação de Logs dos Dados coletados
+* Criação de Histórico dos Dados coletados
 <br>
 * Horário e Data de acesso dos Phishings
 <br>
