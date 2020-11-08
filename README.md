@@ -10,6 +10,12 @@
 <br>
 * Encurtar URLs de Phishings da forma como desejar
 <br>
+* Keylogger em Phishings
+<br>
+* Criação de Logs dos Dados coletados
+<br>
+* Horário e Data de acesso dos Phishings
+<br>
 * Direcionar alvos para sites a sua escolha
 <br>
 * Versátil aos pentests de Engenharia Social
