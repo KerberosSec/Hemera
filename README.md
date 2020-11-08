@@ -3,7 +3,7 @@
 <p align="center"><img src="https://i.imgur.com/bQI1tgJ.png"><br>
 <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/c"> <img src="https://img.shields.io/badge/Hemera-Phishing-blueviolet"> <img src="https://img.shields.io/badge/Versão-2.6-green"></p>
 
-<p><strong>O Hemera é um Software Open-Source voltado para o desenvolvimeno de Phishings. O objetivo desse algoritmo é auxiliar em pentests éticos legais e não deve ser usado para outros fins indevidos. Leia o arquivo LICENSE para obter mais informações.</strong></p>
+<p><strong>O Hemera é um Software Open-Source voltado para o desenvolvimento de Phishings. O objetivo desse algoritmo é auxiliar em pentests éticos legais e não deve ser usado para outros fins indevidos. Leia o arquivo LICENSE para obter mais informações.</strong></p>
 
 ## Benefícios do Hemera:
 <br>
