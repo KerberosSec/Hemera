@@ -29,12 +29,13 @@
 
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1024px-Python_logo_and_wordmark.svg.png"></p>
 
-## Versão 2.9:
+## Versão 3.0:
 ```
 * Correção de Bugs
 * Melhorias na Interface Gráfica do Hemera
 * Melhorias na Interface do Hemera
 * Melhorias de Desempenho
+* Adição de Banner Secundário
 * Adição do comando: "help" na interface gráfica do Hemera
 ```
 ## Desenvolvedor:
