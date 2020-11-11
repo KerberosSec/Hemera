@@ -35,7 +35,7 @@
 * Melhorias na Interface Gráfica do Hemera
 * Melhorias na Interface do Hemera
 * Melhorias de Desempenho
-* Adição de Banner Secundário
+* Adição de Banner / Crédits: Max
 * Adição do comando: "help" na interface gráfica do Hemera
 ```
 ## Desenvolvedor:
