@@ -29,7 +29,7 @@
 
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1024px-Python_logo_and_wordmark.svg.png"></p>
 
-## Versão 3.2:
+## Versão 3.3:
 ```
 * Correção de Bugs
 * Melhorias na Interface Gráfica do Hemera
