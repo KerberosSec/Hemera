@@ -1,7 +1,7 @@
 ## Projeto Hemera
 
 <p align="center"><img src="https://i.imgur.com/GzkacAd.png"><br>
-<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/c"> <img src="https://img.shields.io/badge/Hemera-Phishing-blueviolet"> <img src="https://img.shields.io/badge/Versão-3.3-green"></p>
+<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/c"> <img src="https://img.shields.io/badge/Hemera-Phishing-blueviolet"> <img src="https://img.shields.io/badge/Versão-3.4-green"></p>
 
 <p><strong>O Hemera é um Software Open-Source voltado para o desenvolvimento de Phishings. O objetivo desse algoritmo é auxiliar em pentests éticos legais e não deve ser usado para outros fins indevidos. Leia o arquivo LICENSE para obter mais informações.</strong></p>
 
@@ -29,7 +29,7 @@
 
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1024px-Python_logo_and_wordmark.svg.png"></p>
 
-## Versão 3.3:
+## Versão 3.4:
 ```
 * Correção de Bugs
 * Melhorias na Interface Gráfica do Hemera
