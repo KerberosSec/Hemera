@@ -33,7 +33,6 @@
 ```
 * Correção de Bugs
 * Melhorias Finais
-* contact me: diegopdqm@gmail.com
 ```
 ## Desenvolvedor:
 
