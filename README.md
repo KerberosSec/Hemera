@@ -93,4 +93,3 @@ Diego / KerberosSec
 
 <p align="center"><a href="https://www.buymeacoffee.com/KerberosSec" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
 
-<center>url=https://freebitco.in/?r=39584596><b><size=15pt><color=red>Win Free Bitcoins every hour! - </color><color=green>www.freebitco.in</color></size></b></url></center>
