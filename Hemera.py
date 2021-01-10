@@ -18,7 +18,7 @@
 #                                                                           #
 #---------------------------------------------------------------------------#
 #                                                                           #
-#     Copyright © 2020 KerberosSec [ https://github.com/KerberosSec ]       #
+#     Copyright © 2021 KerberosSec [ https://github.com/KerberosSec ]       #
 #                                                                           #
 #---------------------------------------------------------------------------#
 
@@ -2024,5 +2024,5 @@ finally:
   print ("\n" + W + "[" + G + "+" + W + "]" + C + " Site da Kerberos Sec: " + A + G + "https://kerberossec.wordpress.com")
   print ("\n" + W + "[" + G + "+" + W + "]" + C + " GitHub: " + A + G + "https://github.com/KerberosSec")
   print ("\n" + W + "[" + G + "+" + W + "]" + C + " YouTube: " + A + G + "https://www.youtube.com/channel/UCAQ9F2ANiBCnMVxa_a_1v-w")
-  print ("\n" + W + "[" + G + "+" + W + "]" + C + " Copyright © 2020 KerberosSec")
+  print ("\n" + W + "[" + G + "+" + W + "]" + C + " Copyright © 2021 KerberosSec")
   time.sleep(3.2)
