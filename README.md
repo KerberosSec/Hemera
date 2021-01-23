@@ -29,10 +29,14 @@
 
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1024px-Python_logo_and_wordmark.svg.png"></p>
 
-## Versão 3.7 (End):
+## Versão 4.0 (End):
 ```
 * Correção de Bugs
 * Melhorias Finais
+* Nova opção: set furtive mode
+* A nova opção é capaz de modificar a URL de Phishing
+* Melhorias de Layout
+* Alteração do comando: (set url encurter) para (set shortened url mode)
 ```
 ## Desenvolvedor:
 
