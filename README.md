@@ -11,7 +11,9 @@
 <br>
 * Encurtar URL de Phishings da forma como desejar
 <br>
-* Keylogger em Phishings
+* Modifique URL de Phishings
+<br>
+* Keylogging em Phishings
 <br>
 * Salva o Histórico dos Dados coletados
 <br>
