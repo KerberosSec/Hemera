@@ -86,7 +86,8 @@ Diego / KerberosSec
 [*] Hemera > set template netflix
 [*] Hemera > set porta 8080
 [*] Hemera > set action url https://www.site.com
-[*] Hemera > set url encurter on
+[*] Hemera > set shortened url mode on
+[*] Hemera > set furtive mode on
 [*] Hemera > set keylogger mode on
 [*] Hemera > show options
 [*] Hemera > exploit
