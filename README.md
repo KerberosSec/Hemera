@@ -15,6 +15,8 @@
 <br>
 * Keylogging em Phishings
 <br>
+* Phishings Traduzidos para PT-BR
+<br>
 * Salva o Histórico dos Dados coletados
 <br>
 * Horário e Data de acesso dos Phishings
