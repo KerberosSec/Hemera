@@ -46,7 +46,7 @@
 ## Desenvolvedor:
 
 ```
-Diego / KerberosSec
+[ Diego / © KerberosSec ]
 ```
 
 ## O Hemera é compatível com:
