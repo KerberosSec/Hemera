@@ -18,6 +18,7 @@ apt install pip
 apt install bash
 apt install curl
 apt install php
+apt install jq
 git clone https://github.com/PSecurity/ps.ngrok
 cd ps.ngrok
 mv ngrok ..
